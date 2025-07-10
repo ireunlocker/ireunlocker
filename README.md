@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ireunlocker
 
-Welcome to our GitHub profile! We are [Ireunlocker](https://www.ireunlocker.xyz), a web design and development agency specializing in creating beautiful, functional, and user-friendly websites.
+Welcome to our GitHub profile! We are [Ireunlocker](https://www.ireunlocker.com, a web design and development agency specializing in creating beautiful, functional, and user-friendly websites.
 
 ## 👀 I’m interested in:
 - Crafting bespoke web solutions
@@ -20,8 +20,8 @@ Welcome to our GitHub profile! We are [Ireunlocker](https://www.ireunlocker.xyz)
 - Creative solutions for enhancing online presence and engagement
 
 ## 📫 How to reach me:
-- Visit our website: [www.ireunlocker.xyz](https://www.ireunlocker.xyz)
-- Email us at: [contact@ireunlocker.xyz](mailto:contact@ireunlocker.xyz)
+- Visit our website: [www.ireunlocker.xyz](https://www.ireunlocker.com
+- Email us at: [contact@ireunlocker.xyz](mailto:contact@ireunlocker.com)
 - Follow us on [Instagram](https://www.instagram.com/ireunlocker) for updates
 
 ## 😄 Pronouns:
