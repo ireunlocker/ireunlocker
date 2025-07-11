@@ -20,8 +20,8 @@ Welcome to our GitHub profile! We are [Ireunlocker](https://www.ireunlocker.com,
 - Creative solutions for enhancing online presence and engagement
 
 ## 📫 How to reach me:
-- Visit our website: [www.ireunlocker.xyz](https://www.ireunlocker.com
-- Email us at: [contact@ireunlocker.xyz](mailto:contact@ireunlocker.com)
+- Visit our website: [www.ireunlocker.com](https://www.ireunlocker.com
+- Email us at: [hello@ireunlocker.com](mailto:contact@ireunlocker.com)
 - Follow us on [Instagram](https://www.instagram.com/ireunlocker) for updates
 
 ## 😄 Pronouns:
