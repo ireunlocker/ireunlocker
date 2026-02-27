@@ -1,32 +1,42 @@
-# 👋 Hi, I’m @ireunlocker
+👋 Hi, I’m @ireunlocker
+Welcome to the official repository of Ireunlocker, where we bridge the gap between complex engineering and business scalability. Led by Kerwyn Arias, we specialize in building AI-native applications and high-performance digital ecosystems.
 
-Welcome to our GitHub profile! We are [Ireunlocker](https://www.ireunlocker.com, a web design and development agency specializing in creating beautiful, functional, and user-friendly websites.
+👀 I’m interested in:
+AI-Native Architectures: Implementing LLM fine-tuning and RAG (Retrieval-Augmented Generation) for real-world industries.
 
-## 👀 I’m interested in:
-- Crafting bespoke web solutions
-- Integrating advanced functionalities into websites
-- Enhancing user experience with innovative design
-- Exploring new technologies and trends in web development
+Systematized Development: Transitioning businesses from "survival mode" to data-driven automated systems.
 
-## 🌱 I’m currently learning:
-- The latest trends in web design and development
-- Advanced techniques in SEO and digital marketing
-- Emerging technologies like Progressive Web Apps (PWAs) and WebAssembly
+Hospitality & Real Estate Tech: Developing specialized tools like the Dynamic Revenue Engine and POI demand analytics.
 
-## 💞️ I’m looking to collaborate on:
-- Exciting web design projects
-- Innovative web development challenges
-- Opportunities to integrate with other technologies and platforms
-- Creative solutions for enhancing online presence and engagement
+Advanced SEO Engineering: Technical audits, automated disavow systems, and data-backed organic growth.
 
-## 📫 How to reach me:
-- Visit our website: [www.ireunlocker.com](https://www.ireunlocker.com
-- Email us at: [hello@ireunlocker.com](mailto:contact@ireunlocker.com)
-- Follow us on [Instagram](https://www.instagram.com/ireunlocker) for updates
+🌱 I’m currently learning:
+PostGIS & Geospatial Data: For advanced location intelligence in hospitality.
 
-## 😄 Pronouns:
-- He/Him
+Deep RAG Optimization: Refining vector database retrieval for more accurate AI responses.
 
-## ⚡ Fun fact:
-- Our team loves combining technology with creativity to build unique digital experiences that stand out!
+Advanced Cloud Orchestration: Managing complex environments across DigitalOcean, Akamai, and Google Cloud.
+
+💞️ I’m looking to collaborate on:
+Open Source AI Tools: Projects involving Next.js, Supabase, and AI integration.
+
+Data Analytics Dashboards: Scalable lead management systems and unified data platforms.
+
+Fintech & Payments: Innovations in global remittance systems and automated payment gateways (Pix, Stripe, etc.).
+
+🛠 Tech Stack:
+Frontend: Next.js, React, Tailwind CSS.
+
+Backend: Laravel, Python, Node.js.
+
+Database/Cloud: Supabase, MongoDB, PostgreSQL (PostGIS), DigitalOcean.
+
+Automation: Meta Cloud API (WhatsApp Business), Custom AI Agents.
+
+📫 How to reach me:
+Website: ireunlocker.com
+
+Business Inquiry: hello@ireunlocker.com
+
+Made with love by Kerwyn Arias
 
