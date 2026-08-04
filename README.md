@@ -43,9 +43,32 @@ Docker • Git • GitHub Actions • CI/CD • Linux
 
 ## 📦 Featured Projects
 
+
+### 💬 TSolución Brasil *(Customer Service CRM)*
+
+![image alt](https://github.com/ireunlocker/Tsol-1.6-arquitectura/blob/3c61bae5b37362db7ce4674b8c063bc6964fdec1/Screenshot%202026-08-04%20at%2016.59.13.png)
+
+
+[View repositori ]([https://google.com](https://github.com/ireunlocker/Tsol-1.6-arquitectura/blob/main/README.md )) 
+
+Multi-agent CRM and mobile application.
+
+**Highlights**
+
+- Ticket System
+- WhatsApp Cloud API(WhatsApp, instagram, message)
+- Payments
+- KYC
+- Customer Portal
+
+---
+
 ### 🏨 IreSuite *(AI Omnichannel Platform)*
 
-http://iresuite.xyz
+[View repositori ]([https://google.com]([https://github.com/ireunlocker/Tsol-1.6-arquitectura/blob/main/README.md](https://iresuite.xyz )) 
+
+
+
 
 AI-native platform for hotels, hostels, coworking and coliving.
 
@@ -58,24 +81,6 @@ AI-native platform for hotels, hostels, coworking and coliving.
 - Knowledge Base
 - AI Agents
 - Analytics Dashboard
-
----
-
-### 💬 TSolución Brasil *(Customer Service CRM)*
-
-https://github.com/ireunlocker/Tsol-1.6-arquitectura/blob/3c61bae5b37362db7ce4674b8c063bc6964fdec1/Screenshot%202026-08-04%20at%2016.59.02.png
-
-Ver repositorio url https://github.com/ireunlocker/Tsol-1.6-arquitectura/blob/main/README.md 
-
-Multi-agent CRM and mobile application.
-
-**Highlights**
-
-- Ticket System
-- WhatsApp Cloud API
-- Payments
-- KYC
-- Customer Portal
 
 ---
 
