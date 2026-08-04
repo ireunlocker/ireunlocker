@@ -46,10 +46,11 @@ Docker • Git • GitHub Actions • CI/CD • Linux
 
 ### 💬 TSolución Brasil *(Customer Service CRM)*
 
-![image alt](https://github.com/ireunlocker/Tsol-1.6-arquitectura/blob/3c61bae5b37362db7ce4674b8c063bc6964fdec1/Screenshot%202026-08-04%20at%2016.59.13.png)
+![TSolución Brasil Dashboard](https://raw.githubusercontent.com/ireunlocker/Tsol-1.6-arquitectura/3c61bae5b37362db7ce4674b8c063bc6964fdec1/Screenshot%202026-08-04%20at%2016.59.13.png)
 
+🔗 **Repository:** https://github.com/ireunlocker/Tsol-1.6-arquitectura
 
-[View repositori ]([https://google.com](https://github.com/ireunlocker/Tsol-1.6-arquitectura/blob/main/README.md )) 
+[View Repository](https://github.com/ireunlocker/Tsol-1.6-arquitectura)
 
 Multi-agent CRM and mobile application.
 
