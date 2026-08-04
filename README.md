@@ -1,34 +1,122 @@
-👋 Hi, I’m ireunlocker
-Welcome to the official repository of Ireunlocker, where we bridge the gap between complex engineering and business scalability. Led by Kerwyn Arias, we specialize in building AI-native applications and high-performance digital ecosystems.
+```md
+# 👋 Hi, I'm Kerwyn Arias
 
-👀 I’m interested in:
-AI-Native Architectures: Implementing LLM fine-tuning and RAG (Retrieval-Augmented Generation) for real-world industries.
+### Full Stack AI Engineer
 
-Systematized Development: Transitioning businesses from "survival mode" to data-driven automated systems.
+Building AI-native SaaS products, intelligent automation, and scalable web applications.
 
-Hospitality & Real Estate Tech: Developing specialized tools like the Dynamic Revenue Engine and POI demand analytics.
+---
 
-Advanced SEO Engineering: Technical audits, automated disavow systems, and data-backed organic growth.
+## 🚀 What I Build
 
-🌱 I’m currently learning:
-PostGIS & Geospatial Data: For advanced location intelligence in hospitality.
+- AI-native SaaS platforms
+- CRM & Customer Support Systems
+- Multi-Agent AI Workflows
+- Conversational AI & RAG Applications
+- Hospitality & Fintech Solutions
+- Automation Platforms
+- High-performance Web Applications
 
-Deep RAG Optimization: Refining vector database retrieval for more accurate AI responses.
+---
 
-Advanced Cloud Orchestration: Managing complex environments across DigitalOcean, Akamai, and Google Cloud.
+## 🛠 Tech Stack
 
-Data Analytics Dashboards: Scalable lead management systems and unified data platforms.
+### Frontend
 
-Fintech & Payments: Innovations in global remittance systems and automated payment gateways (Pix, Stripe, etc.).
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss)
 
-🛠 Tech Stack:
-Frontend: Next.js, React, Tailwind CSS.
+### Backend
 
-Backend: Laravel, Python, Node.js.
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)
 
-Database/Cloud: Supabase, MongoDB, PostgreSQL (PostGIS), DigitalOcean.
+### AI
 
-Automation: Meta Cloud API (WhatsApp Business), Custom AI Agents.
+LLMs • RAG • LangChain • Pinecone • AI Agents • MCP
+
+### Database
+
+PostgreSQL • Supabase • MongoDB
+
+### DevOps
+
+Docker • Git • GitHub Actions • CI/CD • Linux
+
+---
+
+## 📦 Featured Projects
+
+### 🏨 IreSuite *(AI Omnichannel Platform)*
+
+AI-native platform for hotels, hostels, coworking and coliving.
+
+**Highlights**
+
+- AI Customer Support
+- WhatsApp Cloud API
+- CRM
+- Ticket Management
+- Knowledge Base
+- AI Agents
+- Analytics Dashboard
+
+---
+
+### 💬 TSolución Brasil *(Customer Service CRM)*
+
+Multi-agent CRM and mobile application.
+
+**Highlights**
+
+- Ticket System
+- WhatsApp Cloud API
+- Payments
+- KYC
+- Customer Portal
+
+---
+
+### 🏦 Flipoteca *(Financial CRM)*
+
+CRM platform for mortgage and financial services.
+
+**Highlights**
+
+- Lead Management
+- AI Assistant
+- Workflow Automation
+- Document Management
+
+---
+
+### 👥 Dynamic Skills *(Recruitment Platform)*
+
+Hiring platform focused on recruitment automation.
+
+---
+
+## 🏆 Achievement
+
+**1st Place — Madrid Conversational Hackathon**
+
+Built an AI-powered conversational assistant for Smart Cities integrated with WhatsApp.
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: https://linkedin.com/in/kerwynarias
+- 📧 Email: help@iresuite.xyz
+
+```
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ireunlocker)](https://git.io/streak-stats) 
 
 📫 How to reach me:
 Website: ireunlocker.com
