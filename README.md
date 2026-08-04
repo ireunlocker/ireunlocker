@@ -22,18 +22,10 @@ Building AI-native SaaS products, intelligent automation, and scalable web appli
 ## 🛠 Tech Stack
 
 ### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss)
+react • next.js • typescript • tailwindcss • shacdn • react native
 
 ### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)
+node.js • python • laravel • express • scoket io • MCP 
 
 ### AI
 
@@ -53,6 +45,8 @@ Docker • Git • GitHub Actions • CI/CD • Linux
 
 ### 🏨 IreSuite *(AI Omnichannel Platform)*
 
+http://iresuite.xyz
+
 AI-native platform for hotels, hostels, coworking and coliving.
 
 **Highlights**
@@ -68,6 +62,10 @@ AI-native platform for hotels, hostels, coworking and coliving.
 ---
 
 ### 💬 TSolución Brasil *(Customer Service CRM)*
+
+https://github.com/ireunlocker/Tsol-1.6-arquitectura/blob/3c61bae5b37362db7ce4674b8c063bc6964fdec1/Screenshot%202026-08-04%20at%2016.59.02.png
+
+Ver repositorio url https://github.com/ireunlocker/Tsol-1.6-arquitectura/blob/main/README.md 
 
 Multi-agent CRM and mobile application.
 
@@ -113,15 +111,7 @@ Built an AI-powered conversational assistant for Smart Cities integrated with Wh
 - 💼 LinkedIn: https://linkedin.com/in/kerwynarias
 - 📧 Email: help@iresuite.xyz
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ireunlocker)](https://git.io/streak-stats)
+
 ```
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ireunlocker)](https://git.io/streak-stats) 
-
-📫 How to reach me:
-Website: ireunlocker.com
-
-Business Inquiry: help@iresuite.xyz
-
-Made with love by Kerwyn Arias
 
