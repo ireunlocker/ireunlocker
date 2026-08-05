@@ -48,9 +48,7 @@ Docker • Git • GitHub Actions • CI/CD • Linux
 
 ![TSolución Brasil Dashboard](https://raw.githubusercontent.com/ireunlocker/Tsol-1.6-arquitectura/3c61bae5b37362db7ce4674b8c063bc6964fdec1/Screenshot%202026-08-04%20at%2016.59.13.png)
 
-🔗 **Repository:** https://github.com/ireunlocker/Tsol-1.6-arquitectura
-
-[View Repository](https://github.com/ireunlocker/Tsol-1.6-arquitectura)
+🔗[View Repository](https://github.com/ireunlocker/Tsol-1.6-arquitectura)
 
 Multi-agent CRM and mobile application.
 
@@ -66,9 +64,8 @@ Multi-agent CRM and mobile application.
 
 ### 🏨 IreSuite *(AI Omnichannel Platform)*
 
-[View repositori ]([https://google.com]([https://github.com/ireunlocker/Tsol-1.6-arquitectura/blob/main/README.md](https://iresuite.xyz )) 
-
-
+[View repositori ](https://github.com/ireunlocker/Tsol-1.6-arquitectura/blob/main/README.md)
+(https://iresuite.xyz ) 
 
 
 AI-native platform for hotels, hostels, coworking and coliving.
@@ -88,6 +85,8 @@ AI-native platform for hotels, hostels, coworking and coliving.
 ### 🏦 Flipoteca *(Financial CRM)*
 
 CRM platform for mortgage and financial services.
+[View repositori ](https://github.com/ireunlocker/flipoteca_v_1_0_2_aquitectura)
+(https://iresuite.xyz )
 
 **Highlights**
 
@@ -99,6 +98,7 @@ CRM platform for mortgage and financial services.
 ---
 
 ### 👥 Dynamic Skills *(Recruitment Platform)*
+app.dynamciskills.com
 
 Hiring platform focused on recruitment automation.
 
