@@ -110,6 +110,43 @@ Hiring platform focused on recruitment automation.
 
 ---
 
+# 🚀 SEO MCP Skills
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Model Context Protocol](https://img.shields.io/badge/MCP-Standard-orange.svg)](https://modelcontextprotocol.io)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+An open-source **Model Context Protocol (MCP)** server that equips AI assistants (Claude, Cursor, custom agents) with actionable, data-driven SEO capabilities. 
+
+Stop relying on generic AI advice. **`seo-mcp-skills`** enables LLM agents to execute deterministic technical audits, extract real-time SERP insights, analyze page semantics, and run programmatic SEO workflows directly inside your development ecosystem.
+
+---
+
+<Image src="image_agent_tag_15203089178588632452" alt="MCP Server Architecture Diagram" caption="MCP Integration Architecture" />
+
+---
+
+## 🔥 Key Capabilities
+
+* **Technical SEO Audits:** Extract and analyze canonicals, structured data (JSON-LD), status codes, heading hierarchy, and meta tag integrity.
+* **SERP & Keyword Intent Analysis:** Connect AI agents to real SERP data to evaluate search intent, content gaps, and keyword difficulty metrics.
+* **On-Page & Semantic Evaluation:** Measure term frequency, TF-IDF weights, heading relevance, and internal linking structures.
+* **Programmatic SEO Tooling:** Generate data-backed metadata templates, schema markup, and sitemap validation rules dynamically.
+
+---
+
+## 🛠️ Quick Start
+
+### 1. Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone [https://github.com/ireunlocker/seo-mcp-skills.git](https://github.com/ireunlocker/seo-mcp-skills.git)
+cd seo-mcp-skills
+npm install # or pip install -e .
+
+
 ## 🏆 Achievement
 
 **1st Place — Madrid Conversational Hackathon**
