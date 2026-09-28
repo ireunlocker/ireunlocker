@@ -1,19 +1,22 @@
 ```md
 # 👋 Hi, I'm Kerwyn Arias
 
-### Full Stack AI Engineer
+Welcome to my repository! Here you'll find real-world projects and experimental builds focused on **Full Stack & AI Agent Engineering**.
 
-Building AI-native SaaS products, intelligent automation, and scalable web applications.
+5+ years of experience designing, architecting, and developing software systems.
 
+Building AI agents and integrations for SaaS products, intelligent automation, and scalable web applications.
 ---
 
 ## 🚀 What I Build
 
-- AI-native SaaS platforms
+- Desing and arquitech Ia Agent solution
+- IA Data integration SaaS platforms
+- Integration MCP and developers for personality
 - CRM & Customer Support Systems
 - Multi-Agent AI Workflows
 - Conversational AI & RAG Applications
-- Hospitality & Fintech Solutions
+- Prontech, Fintech, travel Solutions
 - Automation Platforms
 - High-performance Web Applications
 
@@ -22,10 +25,10 @@ Building AI-native SaaS products, intelligent automation, and scalable web appli
 ## 🛠 Tech Stack
 
 ### Frontend
-react • next.js • typescript • tailwindcss • shacdn • react native
+react • next.js • typescript • tailwindcss • shacdn 
 
 ### Backend
-node.js • python • laravel • express • scoket io • MCP 
+node.js • python • laravel • express • scoket io 
 
 ### AI
 
@@ -44,20 +47,21 @@ Docker • Git • GitHub Actions • CI/CD • Linux
 ## 📦 Featured Projects
 
 
-### 💬 TSolución Brasil *(Customer Service CRM)*
+### 💬 TSolución Brasil *(Customer Service CRM WhatsApp cloud api)*
 
 ![TSolución Brasil Dashboard](https://raw.githubusercontent.com/ireunlocker/Tsol-1.6-arquitectura/3c61bae5b37362db7ce4674b8c063bc6964fdec1/Screenshot%202026-08-04%20at%2016.59.13.png)
 
 🔗[View Repository](https://github.com/ireunlocker/Tsol-1.6-arquitectura)
 
-Multi-agent CRM and mobile application.
+Multi-agent CRM  WhatsApp integration.
 
 **Highlights**
 
 - Ticket System
+- Agent skills integration
 - WhatsApp Cloud API(WhatsApp, instagram, message)
-- Payments
-- KYC
+- Payments integration
+- integration KYC
 - Customer Portal
 
 ---
@@ -73,8 +77,8 @@ AI-native platform for hotels, hostels, coworking and coliving.
 **Highlights**
 
 - AI Customer Support
-- WhatsApp Cloud API
-- CRM
+- WhatsApp Cloud API and omnicanal system
+- Orquestation for Agente integration
 - Ticket Management
 - Knowledge Base
 - AI Agents
@@ -101,6 +105,8 @@ CRM platform for mortgage and financial services.
 app.dynamciskills.com
 
 Hiring platform focused on recruitment automation.
+
+
 
 ---
 
