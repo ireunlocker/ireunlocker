@@ -159,8 +159,8 @@ Built an AI-powered conversational assistant for Smart Cities integrated with Wh
 
 - 💼 LinkedIn: https://linkedin.com/in/kerwynarias
 - 📧 Email: help@iresuite.xyz
+-    Email: kerwynarias@gmail.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ireunlocker)](https://git.io/streak-stats)
 
 ```
 
